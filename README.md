@@ -1,7 +1,7 @@
 # gsuite-cli-py
 
 Thist script is just to extract informations from Google Suite email accounts.
-The user used needs to have enough rights to browse the information.
+User needs enough rights to parse the information.
 
 
 ## Usage
